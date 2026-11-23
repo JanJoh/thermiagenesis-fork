@@ -1,3 +1,9 @@
+> ## ⚠️ This repository is archived
+>
+> It was a stepping-stone while getting this integration into HACS. The maintained version now lives at **[JanJoh/thermiagenesis](https://github.com/JanJoh/thermiagenesis)** — install it through HACS as a custom repository. Same integration, same entity IDs; your history and automations carry over. Please move there for updates and issues.
+
+---
+
 # thermiagenesis (personal fork)
 
 > This is a personal convenience fork. All credit belongs to [@CJNE](https://github.com/CJNE) and contributors.
